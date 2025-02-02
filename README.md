@@ -18,7 +18,6 @@ Bu projenin bağımlılıkları `npm` kullanarak kolayca yüklenebilmektedir.
    cd useContext-react ya da  cd useContext-react-main
 3) Gerekli bağımlılıkları yükleyin:<br/>
  npm install  #Bağımlılıkları indirir. <br/> 
- <br/>
 4)  React projesini çalıştırın:<br/>
  npm start  #Projeyi başlatır.<br/>
  
